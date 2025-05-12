@@ -15,15 +15,6 @@ namespace Laba1
     {
 
         /// <summary>
-        /// form1 элемент управления.
-        /// </summary>
-        /// <remarks>
-        /// Автоматически созданное поле.
-        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
-        /// <summary>
         /// txtName элемент управления.
         /// </summary>
         /// <remarks>
@@ -166,6 +157,15 @@ namespace Laba1
         /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ListBox lbSelectedSkills;
+
+        /// <summary>
+        /// cvSelectedSkills элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически созданное поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CustomValidator cvSelectedSkills;
 
         /// <summary>
         /// hdnSelectedSkills элемент управления.
